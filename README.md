@@ -16,7 +16,6 @@ ScreenShot
 ![ScreenShot](https://github.com/BootcampBanking/config-server-directory/blob/master/images/checkstyle.png)
 ![ScreenShot](https://github.com/BootcampBanking/config-server-directory/blob/master/images/github-actions.png)
 ![ScreenShot](https://github.com/BootcampBanking/config-server-directory/blob/master/images/docker-1.jpeg)
-![ScreenShot](https://github.com/BootcampBanking/config-server-directory/blob/master/images/docker-2.jpeg)
 ![ScreenShot](https://github.com/BootcampBanking/config-server-directory/blob/master/images/docker-hub-1.png)
 ![ScreenShot](https://github.com/BootcampBanking/config-server-directory/blob/master/images/docker-hub-2.png)
 ![ScreenShot](https://github.com/BootcampBanking/config-server-directory/blob/master/images/azure.png)
